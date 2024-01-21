@@ -3,3 +3,4 @@ streamlit==1.11.1
 yfinance==0.1.68
 mistune>=2.0.3 # not directly required, pinned by Snyk to avoid a vulnerability
 pyarrow>=14.0.1 # not directly required, pinned by Snyk to avoid a vulnerability
+pillow>=10.2.0 # not directly required, pinned by Snyk to avoid a vulnerability
